@@ -16,7 +16,7 @@ load_dotenv()
 
 TOKEN = os.getenv("8712150869:AAFvVvTygbEMYDZUN9OV9Qu4tloqxsQIvxs")
 MONGO_URL = os.getenv("mongodb+srv://s83988364_db_user:CFn6crlU4ecZa3kU@cluster0.xzdx7o4.mongodb.net/?appName=Cluster0")
-OWNER_ID = int(os.getenv("8722144519"))
+OWNER_ID = 8722144519
 OWNER_USERNAME = os.getenv("@ll_DARK_GETO_ll", "")
 GROUP_LINK = os.getenv("https://t.me/+Yu4K5-9LHH1mM2Zl")
 SUDO_GROUP_LINK = os.getenv("https://t.me/+zzukV0c4p5swOWRh")
